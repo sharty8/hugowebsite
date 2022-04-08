@@ -4,3 +4,11 @@
   is an official part of the theme (ex. Pull Requests) should be included in main.css
   and follow the formatting and style given.
 */
+
+.copyright {
+    display: none;
+}
+
+.fa-envelope {
+    font-size: 26px;
+}

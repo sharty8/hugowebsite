@@ -2,7 +2,7 @@
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://hugo-future-imperfect-slim.netlify.app/"
 DefaultContentLanguage  = "fr"
-title                   = "Arthur"
+title                   = "Arthur&Shanon"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 10
 disqusShortname         = ""
@@ -32,12 +32,12 @@ disableLanguages        = []
   readingTime           = true
   imageStretch          = ""
   removeBlur            = false
-  hideEmptyStats        = false
+  hideEmptyStats        = true
   toc                   = true
   tocWords              = 400
 
   [params.meta]
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    description         = "Blog d'Arthur et Shanon."
     author              = "Sha"
     favicon             = false
     svg                 = true
@@ -46,16 +46,16 @@ disableLanguages        = []
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Future Imperfect"
-    dynamicTitles       = true
-    searchMenu          = true
-    shareMenu           = true
-    languageMenu        = true
+    navbarTitle         = "A&S à la Réunion"
+    dynamicTitles       = false
+    searchMenu          = false
+    shareMenu           = false
+    languageMenu        = false
 
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
-    rssIntro              = true
+    header                = "Arthur & Shanon<br>à la Réunion"
+    paragraph             = ""
+    rssIntro              = false
     socialIntro           = true
     hideWhenSingleColumn  = false
     alwaysOnHomepage      = false
@@ -63,18 +63,12 @@ disableLanguages        = []
     [params.intro.pic]
       src                 = "img/main/logo.jpg"
       shape               = "circle"
-      width               = ""
-      alt                 = "Hugo Future Imperfect Slim"
-
-  [params.sidebar]
-    about               = "This theme was developed for Hugo static site generator."
-    postAmount          = 5
-    categories          = true
-    categoriesByCount   = true
+      width               = "300"
+      alt                 = "Arthur et Shanon"
 
   [params.footer]
-    rssFooter           = true
-    socialFooter        = true
+    rssFooter           = false
+    socialFooter        = false
 
   [params.utterances]
     enabled             = false
@@ -95,37 +89,6 @@ disableLanguages        = []
     [params.staticman.recaptcha]
       siteKey           = ""
       encryptedKey      = ""
-
-[menu]
-
-  [[menu.main]]
-    name              = "Home"
-    identifier        = "home"
-    url               = ""
-    pre               = "<i class='fa fa-home'></i>"
-    weight            = 1
-
-  [[menu.main]]
-    name              = "About"
-    identifier        = "about"
-    url               = "about"
-    pre               = "<i class='far fa-id-card'></i>"
-    weight            = 2
-
-  [[menu.main]]
-    name              = "Blog"
-    identifier        = "blog"
-    url               = "blog"
-    pre               = "<i class='far fa-newspaper'></i>"
-    weight            = 3
-
-  [[menu.main]]
-    name              = "Categories"
-    identifier        = "categories"
-    url               = "categories"
-    pre               = "<i class='fas fa-sitemap'></i>"
-    weight            = 5
-
 
 [social]
   # Coding Communities
@@ -175,4 +138,4 @@ disableLanguages        = []
   keybase               = ""
   mastodon              = ""
   # Email
-  email                 = ""
+  email                 = "shanon.pech@gmail.com"

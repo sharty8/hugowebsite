@@ -3,8 +3,6 @@ title = "Guide de syntaxe de Markdown"
 description = "Exemple d'article présentant la syntaxe et le formatage de base de Markdown pour les éléments HTML."
 author = "shanon"
 date = "2019-03-11"
-tags = ["markdown", "css", "html", "themes"]
-categories = ["themes", "syntax"]
 [[images]]
   src = "img/2019/03/pic01.jpg"
   alt = "Mountain Range Through Clouds"
