@@ -1,6 +1,6 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://hugo-future-imperfect-slim.netlify.app/"
+baseurl                 = "https://sharty8.github.io"
 DefaultContentLanguage  = "fr"
 title                   = "Arthur&Shanon"
 theme                   = "hugo-future-imperfect-slim"
