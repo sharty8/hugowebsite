@@ -23,6 +23,7 @@ cd hugowebsite/
 
 And when you are done with your changes, push it back to github.
 ```bash
+hugo -D
 git add --all
 git commit -m "new commit"
 git push origin/master
