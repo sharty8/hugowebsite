@@ -3,10 +3,13 @@
 ## Start server
 
 ```bash
-cd hugowebsite
 hugo server
 ```
 
+## Create an article
+```bash
+hugo new
+```
 
 ## What to do ? 
 
@@ -23,9 +26,9 @@ cd hugowebsite/
 
 And when you are done with your changes, push it back to github.
 ```bash
+# rm -rf docs || echo FAILED RM DOCS && \
+# mv public docs || echo FAILED MV DOCS && \
 hugo || echo FAILED HUGO BUILD && \
-rm -rf docs || echo FAILED RM DOCS && \
-mv public docs || echo FAILED MV DOCS && \
 git add --all && \
 git commit -m "new commit" && \
 git push
