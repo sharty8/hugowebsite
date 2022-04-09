@@ -13,10 +13,38 @@
     font-size: 26px;
 }
 
-#site-header {
-    display: none;
+.post {
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
+    max-width: 70%;
+}
+
+.image {
+    padding-bottom: 50vh;
+}
+
+img {
+    max-height: 100vh;
+    display: block;
+    margin: auto;
+}
+
+#site-intro {
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
 }
 
 #site-header {
     display: none;
+}
+
+#wrapper {
+    max-width: none;
+}
+
+body {
+    margin-top: 0;
+    background-color: #f7ce9c;
+    background-image: url("/img/main/cartographer.png");
+    background-attachment: fixed;
 }

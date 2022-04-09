@@ -78,22 +78,9 @@ disableLanguages        = []
     label               = ""
     theme               = "github-light"
 
-## Enable comments
-#  [params.staticman]
-#    enabled             = false
-#    api                 = ""  # No Trailing Slash
-#    gitProvider         = ""
-#    username            = ""
-#    repo                = ""
-#    branch              = ""
-#
-#    [params.staticman.recaptcha]
-#      siteKey           = ""
-#      encryptedKey      = ""
-
 [social]
   # Coding Communities
-  github                = ""
+  github                = "sharty8"
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
