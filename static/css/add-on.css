@@ -23,6 +23,16 @@
     padding-bottom: 50vh;
 }
 
+.button:hover {
+    border: 1px solid #af926e;
+    background-color: #c4b29a !important;
+    color: black !important;
+}
+
+.button {
+    border-radius: 0px;
+}
+
 img {
     max-height: 100vh;
     display: block;
