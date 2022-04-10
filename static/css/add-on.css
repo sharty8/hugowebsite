@@ -6,55 +6,65 @@
 */
 
 .copyright {
-    display: none;
+  display: none;
 }
 
 .fa-envelope {
-    font-size: 26px;
+  font-size: 26px;
 }
 
 .post {
-    background-color: rgba(255, 255, 255, 0.7);
-    border-radius: 10px;
-    max-width: 70%;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 10px;
+  max-width: 70%;
 }
 
 .image {
-    padding-bottom: 50vh;
+  padding-bottom: 50vh;
 }
 
 .button:hover {
-    border: 1px solid #af926e;
-    background-color: #c4b29a !important;
-    color: black !important;
+  border: 1px solid #af926e;
+  background-color: #c4b29a !important;
+  color: black !important;
 }
 
 .button {
-    border-radius: 0px;
+  border-radius: 0px;
+}
+
+.circle {
+  width: 240px;
+}
+
+@media (min-width: 1024px) {
+  #wrapper {
+    grid-template-columns: 18em 1fr;
+  }
 }
 
 img {
-    max-height: 100vh;
-    display: block;
-    margin: auto;
+  max-height: 100vh;
+  display: block;
+  margin: auto;
 }
 
 #site-intro {
-    background-color: rgba(255, 255, 255, 0.7);
-    border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 10px;
 }
 
 #site-header {
-    display: none;
+  display: none;
 }
 
 #wrapper {
-    max-width: none;
+  max-width: none;
 }
 
 body {
-    margin-top: 0;
-    background-color: #f7ce9c;
-    background-image: url("/img/main/cartographer.png");
-    background-attachment: fixed;
+  margin-top: 0;
+  background-color: #f7ce9c;
+  background-image: url("/img/main/cartographer.png");
+  background-attachment: fixed;
 }
