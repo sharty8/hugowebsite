@@ -4,7 +4,7 @@ description = ""
 author = "Arthur & Shanon"
 date = "2022-04-09"
 [[images]]
-  src = "img/2022/avril/lezard.JPG"
+  src = "img/2022/avril/lezard.jpg"
   alt = "lézard vert"
   stretch = "stretchH"
 +++
@@ -20,6 +20,6 @@ On s'y sent bien les amis !
 
 <!--more-->
 
-![Arthur content](/img/2022/avril/arthurcontent.JPG)
+![Arthur content](/img/2022/avril/arthurcontent.jpg)
 
-![Sha contente](/img/2022/avril/shacontente.JPG)
+![Sha contente](/img/2022/avril/shacontente.jpg)
