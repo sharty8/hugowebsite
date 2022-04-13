@@ -4,7 +4,7 @@ description = ""
 author = "Arthur & Shanon"
 date = "2022-04-09"
 [[images]]
-  src = "img/2022/avril/lezard.jpg"
+  src = "/img/2022/avril/lezard.jpg"
   alt = "lézard vert"
   stretch = "stretchH"
 +++
@@ -17,8 +17,6 @@ L'après-midi était dédiée à la recherche d'une voiture d'occasion sur **Leb
 Fin de journée, nous voilà repartis dans le centre de Saint-Denis, les bonbons piments nous appellent. 
 
 On s'y sent bien les amis ! 
-
-<!--more-->
 
 ![Arthur content](/img/2022/avril/arthurcontent.jpg)
 
