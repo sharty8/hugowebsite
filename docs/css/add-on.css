@@ -68,3 +68,39 @@ body {
   background-image: url("/img/main/cartographer.png");
   background-attachment: fixed;
 }
+
+#site-intro .drapeau {
+  background: url("/img/main/proposed_flag_of_Réunion.png");
+  background-size: contain;
+  color: #fff;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  /* padding: 0;
+  font-size: 200px;
+  font-family: sans-serif;
+  text-align: center; */
+  /* text-shadow: 0 0 1px rgba(0,0,0,.1); */
+  /* margin: 0;
+  padding: 0; */
+
+  /* background: url("");
+  background-size: cover;
+  color: #fff;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  text-shadow: 0 0 1px rgba(0,0,0,.1); */
+}
+
+::selection {
+  background: #00000020;
+  text-shadow: none;
+}
+
+.meta p {
+  line-height: 1.2;
+}
+
+.post>header p {
+
+  margin: 1em 0 0;
+}

@@ -53,7 +53,7 @@ disableLanguages        = []
     languageMenu        = false
 
   [params.intro]
-    header                = "Arthur & Shanon<br>à la Réunion"
+    header                = "Arthur & Shanon<br><span class=\"drapeau\">à la Réunion</span>"
     paragraph             = ""
     rssIntro              = false
     socialIntro           = true
