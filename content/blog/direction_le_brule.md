@@ -9,8 +9,8 @@ date = "2022-04-13"
   stretch = "stretchH"
 +++
 
+Notre journée a commencé par un passage au Petit Marché de Saint-Denis, dans lequel nous espérions trouver des fruits et légumes pour un prix abordable.Mais il n'en est rien, le petit ananas pour 2€, l'avocat pour 3€.
 
-Notre journée a commencé par un passage au Petit Marché de Saint-Denis, dans lequel nous espérions trouver des fruits et légumes pour un prix abordable. Mais il n'en est rien, le petit ananas pour 2€, l'avocat pour 3€.
 Après cela, nous nous sommes lancés le défi de faire le sentier botanique (*hé oui encore celui-là*), mais jusqu'au Brûlé cette fois-ci, 11km tout de même ! 
 
 ![Carte du sentier botanique](/img/blog/direction_le_brule/cartesentier.jpeg)
@@ -37,6 +37,7 @@ Au sommet, nous avons goûté le bacané (préparation à l'étouffée), des mor
 
 
 La panse bien pleine, nous sommes retournés vers notre logement, courbaturés et fatigués et surtout émerveillés par cette nature si riche. 
+
 En arrivant, Cyril le propriétaire a sympathisé avec nous, nous avons partagé une bière (*encore*) **La Dodo Bourbon**, agréable et pas trop forte (5%°alcool). 
 
 ![Arthur posé](/img/blog/direction_le_brule/Petitepausemeritee.jpeg)
