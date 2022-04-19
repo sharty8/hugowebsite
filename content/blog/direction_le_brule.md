@@ -9,7 +9,9 @@ date = "2022-04-13"
   stretch = "stretchH"
 +++
 
-Notre journée a commencé par un passage au Petit Marché de Saint-Denis, dans lequel nous espérions trouver des fruits et légumes pour un prix abordable.Mais il n'en est rien, le petit ananas pour 2€, l'avocat pour 3€.
+Notre journée a commencé par un passage au Petit Marché de Saint-Denis, dans lequel nous espérions trouver des fruits et légumes pour un prix abordable.
+
+Mais il n'en est rien, le petit ananas pour 2€, l'avocat pour 3€.
 
 Après cela, nous nous sommes lancés le défi de faire le sentier botanique (*hé oui encore celui-là*), mais jusqu'au Brûlé cette fois-ci, 11km tout de même ! 
 
