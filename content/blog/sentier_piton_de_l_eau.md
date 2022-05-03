@@ -21,8 +21,6 @@ Après environ 1 heure de marche sous un soleil plus que généreux...
 
 ![Panorama2](/img/blog/sentier_piton_de_l_eau/panorama_2.jpeg)
 
-![Panorama3](/img/blog/sentier_piton_de_l_eau/panorama_3.jpeg)
-
 ![Nous deux](/img/blog/sentier_piton_de_l_eau/photo_amoureux.jpeg)
 
 Cette randonnée nous a offert un panoramique exceptionnel, une sensation d'irréel du fait de se retrouver au-dessus des cotons blancs ☁️ ... il faut le dire, les 2/3 du sentier était monotone : sol caillouteux et sableux, un terrain désertique avec des arbres calcinés. 
