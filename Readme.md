@@ -7,6 +7,7 @@ hugo server
 ```
 
 ## Create an article
+
 ```bash
 hugo new
 ```
