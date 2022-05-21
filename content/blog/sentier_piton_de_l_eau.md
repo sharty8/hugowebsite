@@ -23,13 +23,13 @@ Après environ 1 heure de marche sous un soleil plus que généreux...
 
 ![Nous deux](/img/blog/sentier_piton_de_l_eau/photo_amoureux.jpeg)
 
-Cette randonnée nous a offert un panoramique exceptionnel, une sensation d'irréel du fait de se retrouver au-dessus des cotons blancs ☁️ ... il faut le dire, les 2/3 du sentier était monotone : sol caillouteux et sableux, un terrain désertique avec des arbres calcinés. 
+Cette randonnée nous a offert un panorama exceptionnel, une sensation d'irréel en se retrouvant au-dessus des nuages de coton blancs ☁️ ... il faut le dire, les 2/3 du sentier étaient monotone : sol caillouteux et sableux, un terrain désertique avec des arbres calcinés.
 
 ![Pierre volca](/img/blog/sentier_piton_de_l_eau/pierre_volcanique.jpeg)
 
 ![Descente vers lac volcanique](/img/blog/sentier_piton_de_l_eau/retour.jpeg)
 
-En revanche, nous avons traversé une belle petite forêt de **Tamarins** (*arbre endémique de La Réunion*) sur un sol argileux, relativement glissant de part la pluie de la veille, où quelques crapauds pointaient le bout de leur nez. 
+En revanche, nous avons traversé une belle petite forêt de **Tamarins** (*arbre endémique de La Réunion*) sur un sol argileux, relativement glissant car il a plu la veille, où quelques crapauds pointaient le bout de leur nez. 
 
 Petit à petit nous nous sommes dirigés vers le début du sentier menant au piton de l'eau que nous n'avons pas fait puisque trop fatigués (*Arthur est vachement lourd en fait...*) et un randonneur nous a précisé que cette partie n'était pas la meilleure.
 
