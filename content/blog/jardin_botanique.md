@@ -23,8 +23,6 @@ Petit gecko sain et sauf, nous l'avons libéré et posé sur le bord du chemin.
 
 12hOO, nous commençons la visite libre, regardez comme la nature est si belle.
 
-![Monstera s'accroche](/img/blog/jardin_botanique/hauteur.jpeg)
-
 Callicarpe de Bondinier ou arbuste aux bonbons
 ![Baies mauves](/img/blog/jardin_botanique/baies_mauves.jpeg)
 
