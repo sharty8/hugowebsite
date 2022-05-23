@@ -34,7 +34,7 @@ Nous avons encore croisé des fougères arborescentes 🌿 , des jacquiers, des 
 
 ![Fougères](/img/blog/boucle_de_l_eden/thinking.jpeg)
 
-Ici, les Réunionnais adorent cueillir les goyaviers (fruits des goyaviers de Chine originaires d'Amérique du Sud *je ne vous ai pas perdu?*) pour en faire de la confiture. 
+Ici, les Réunionnais adorent cueillir les goyaviers (fruits des goyaviers de Chine originaires d'Amérique du Sud *je ne vous ai pas perdus?*) pour en faire de la confiture. 
 
 Photo des goyaviers (source : Wikipedia)
 ![Goyaviers](/img/blog/boucle_de_l_eden/Psidium_cattleyanum_fruits.jpeg)
