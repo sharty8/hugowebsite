@@ -2,12 +2,6 @@
 
 ## Start server
 
-écris juste 'hugo server' dans le terminal. Le terminal tu le trouves dans les onglets du haut en placant la souris en haut. 
-
-tu écris 'ls' pour savoir où tu te trouves, si tu es dans le bon dossier.
-
-vérifie si tu as le rendu souhaité en éditant : 
-
 ```bash
 hugo server
 ```
