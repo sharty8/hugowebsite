@@ -28,3 +28,5 @@ fields:
   - type: text
     name: stretch
     label: stretch
+pages:
+- content/blog/sentier-en-bord-de-riviere-saint-denis.md
