@@ -1,0 +1,118 @@
+/*
+  This css file is for individual users to restyle items for their personal site,
+  or for the implementation of features specifically for their site. Anything that
+  is an official part of the theme (ex. Pull Requests) should be included in main.css
+  and follow the formatting and style given.
+*/
+
+.copyright {
+  display: none;
+}
+
+.fa-envelope {
+  font-size: 26px;
+}
+
+.post {
+  background-color: rgba(255, 255, 255, 0.7);
+  max-width: 90%;
+}
+
+.image {
+  padding-bottom: 50vh;
+}
+
+.button:hover {
+  border: 1px solid #af926e;
+  background-color: #c4b29a !important;
+  color: black !important;
+}
+
+.button {
+  border-radius: 0px;
+}
+
+.circle {
+  width: 240px;
+}
+
+@media (min-width: 1024px) {
+  #wrapper {
+    grid-template-columns: 18em 1fr;
+  }
+  #site-intro {
+    padding-bottom: 100%;
+    position: fixed;
+    background-color: rgba(255, 255, 255, 0.7);
+  }
+}
+
+img {
+  max-height: 100vh;
+  display: block;
+  margin: auto;
+}
+
+#site-intro {
+    margin: 0;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+#site-header {
+  display: none;
+}
+
+#wrapper {
+  padding: 0;
+  max-width: none;
+}
+
+body {
+  margin-top: 0;
+  background-color: #f7ce9c;
+  background-image: url("/img/main/cartographer.png");
+  background-attachment: fixed;
+}
+
+#site-intro .drapeau {
+  background: url("/img/main/proposed_flag_of_Réunion.png");
+  background-size: contain;
+  color: #fff;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  /* padding: 0;
+  font-size: 200px;
+  font-family: sans-serif;
+  text-align: center; */
+  /* text-shadow: 0 0 1px rgba(0,0,0,.1); */
+  /* margin: 0;
+  padding: 0; */
+
+  /* background: url("");
+  background-size: cover;
+  color: #fff;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  text-shadow: 0 0 1px rgba(0,0,0,.1); */
+}
+
+::selection {
+  background: #00000020;
+  text-shadow: none;
+}
+
+.meta p {
+  line-height: 1.2;
+}
+
+.post>header p {
+
+  margin: 1em 0 0;
+}
+
+h2 {
+  margin: 0.2em;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+
