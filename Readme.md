@@ -25,8 +25,9 @@ cd name_of_the_folder  # to go in a folder
 
 And when you are done with your changes, push it back to github.
 ```bash
-hugo || echo FAILED HUGO BUILD && \
-git commit -a -m "new commit" && \
+hugo && \
+git add --all && \
+git commit -m "new commit" && \
 git push
 ```
 

@@ -3,7 +3,7 @@ title = "Les berges de la rivière du Mât"
 author = "Shanon"
 date = "2022-07-18"
 [[images]]
-  src = "img/blog/berges_riviere_du_mat/DSCF2331.jpeg"
+  src = "/img/blog/berges_riviere_du_mat/DSCF2331.jpeg"
   stretch = "stretchH"
 +++
 
