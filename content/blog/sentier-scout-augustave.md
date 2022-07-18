@@ -1,13 +1,14 @@
 +++
 author = "Shanon"
 date = 2022-06-26T20:00:00Z
-description = "Mafate par l'Est ⛰️"
 title = "Sentier Scout Augustave"
 [[images]]
 alt = ""
 src = "/img/dscf2211.JPG"
 stretch = "stretchH"
 +++
+
+Mafate par l'Est ⛰️
 
 Samedi 25 juin, départ vers Mafate - Sentier Augustave. 
 
