@@ -6,9 +6,9 @@ title = "Sentier Scout Augustave"
 [[images]]
 alt = ""
 src = "/img/dscf2211.JPG"
-stretch = ""
-
+stretch = "stretchH"
 +++
+
 Samedi 25 juin, départ vers Mafate - Sentier Augustave. 
 
 ![](/img/capture-d-ecran-1145.png)Un conseil, sur l'île de la Réunion, méfiez-vous de l'itinéraire proposé par Google Maps... Il nous a envoyé vers une route avec une pente de 15% et qui plus est, glissante. Rassurez-vous, nous avons rebroussé chemin. Recalcule d'itinéraire, Google nous envoie sur Hell-Bourg pour finalement faire une boucle dans Hell-Bourg et revenir sur nos pas...🤣 En fait, nous devions prendre un virage sur notre droite plus tôt, route adéquate indiquée par un panneau 'Col des Bœufs'.
@@ -21,7 +21,7 @@ Nous entamons la descente et croisons des randonneurs qui terminent leur boucle 
 
 "Oui mais on va la faire courte, on n'ira pas jusqu'au bout c'est clair." 
 
-_7 heures pour faire la boucle jusqu'à Aurère (entouré en rouge)_
+_7 heures pour faire la boucle jusqu'à <span style="color:#bb3333">Aurère</span> (entouré en rouge)_
 
 ![](/img/capture-d-ecran-1144.jpg)
 
