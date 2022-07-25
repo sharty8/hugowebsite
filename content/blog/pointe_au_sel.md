@@ -37,7 +37,7 @@ Le sentier longe le littoral mais la seconde moitié, il nous fait passer à tra
 ![Arrêt photos](/img/blog/pointe_au_sel/IMG_20220724_113535.jpeg)
 
 Sur ce sentier se trouve le Souffleur de l'île (*mais il y en a d'autres dans le Sud notamment*).
-C'est un phénomène amusant à observer et à entendre. L'eau s'engouffre dans une grotte sous-marine avec une ouverture au sommet. L'air présent dans la grotte magmatique est mis sous pression, s'échappe par l'ouverture et laisse monter quelques gouttelettes. 
+C'est un phénomène amusant à observer et à entendre. L'eau s'engouffre dans une grotte avec une ouverture au sommet. L'air présent dans la grotte de roche magmatique est mis sous pression, s'échappe par l'ouverture et laisse monter quelques gouttelettes. 
 
 ![Le Souffleur](/img/blog/pointe_au_sel/CE86CB9B-6CF1-4A75-BD81-1F11D1509E09_1_105_c.jpeg)
 
