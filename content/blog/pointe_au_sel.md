@@ -22,7 +22,7 @@ Sentier de 3h30 prévu. Vous pouvez ajouter 1 heure.😃 Nous avons pris du plai
 ![La houle 3](/img/blog/pointe_au_sel/5D2113BD-FDE1-44CB-ADF4-FE96A22C7B44_1_105_c.jpeg)
 
 Je n'étais pas à mon aise, les vagues pouvaient être impressionnates ! 
-Á un moment donné, nous avons du fuir en courant sur les gros cailloux au risque d'avoir les pieds trempés. 
+Nous avons dû courir sur les cailloux, craignant d'avoir les pieds trempés.  
 
 Après cet arrêt photos de rouleaux, nous avons scruté le sol.
 
