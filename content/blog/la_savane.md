@@ -1,7 +1,7 @@
 +++
 title = "La Savane du Cap la Houssaye"
 author = "Shanon"
-date = "2022-07-25"
+date = "2022-07-24"
 [[images]]
   src = "/img/blog/la_savane/first_step.jpeg"
   stretch = "stretchH"
