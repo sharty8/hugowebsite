@@ -16,11 +16,11 @@ Du coup, petit check rapide sur la météo dans cette région. Feu vert, Arthur 
 Randonnée de 8,5 Km. Durée 3h00. 
 ![8,5 Km](/img/blog/bras_de_pontho/rando_du_jour.png)
 
-Après avoir quitté la forêt, nous tombions sur des pâturages. Nous craignions le mauvais temps. 
+Après avoir quitté la forêt, nous sommes passés par des pâturages. Nous craignions le mauvais temps. 
 
 ![Pâturages](/img/blog/bras_de_pontho/paturages.jpeg)
 
-Finalement, le brouillard est rapidement parti pour laissé place à de belles éclaircies. La température s'élevait peut-être à 16°Celsius.
+Finalement, le brouillard est rapidement parti pour laisser place à de belles éclaircies. La température s'élevait peut-être à 16°Celsius.
 
 ![Pâturages2](/img/blog/bras_de_pontho/paturages2.jpeg)
 
