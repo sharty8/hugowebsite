@@ -45,7 +45,7 @@ Encore quelques pas dans les prairies avant d'atteindre le sommet.
 La Vallée des Remparts
 ![La Vallée](/img/blog/bras_de_pontho/sommet2.jpeg)
 
-![Sommet](/img/blog/bras_de_pontho/sommet panorama.jpeg)
+![Sommet Panorama](/img/blog/bras_de_pontho/sommet_panorama.jpeg)
 
 ![Sommet2](/img/blog/bras_de_pontho/sommet.jpeg)
 
