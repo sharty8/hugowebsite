@@ -42,7 +42,6 @@ The sole purpose of the `docs/` folder is for Hugo.
 
  - .forestry: configuration of the Forestry CMS.
  - .github: configuration of github.
- - archetype: example of how hugo should interpret the introduction of an article.
  - content: where the user (us) need to put the articles.
  - docs: content interpreted by hugo -> what will be shown on the website.
  - resources: I dont know... (^.^')
