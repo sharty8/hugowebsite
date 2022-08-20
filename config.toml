@@ -40,7 +40,7 @@ disableLanguages        = []
   [params.meta]
     description         = "Blog d'Arthur et Shanon."
     author              = "Sha"
-    favicon             = false
+    favicon             = "./favicon.png"
     svg                 = true
     faviconVersion      = "1"
     msColor             = "#ffffff"
